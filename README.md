@@ -1,2 +1,17 @@
 # react-study
-Learn react source code
+
+学习react源码
+
+## 版本
+
+react版本为：`17.0.2`
+
+## source
+
+> `source`目录下为打包生成后没有任何改动的代码,后期可以直接在浏览器打开`dev.html`直接运行，进行debug。
+
+## test
+
+> 本人后期学习只会在此目录修改
+
+## 学习react源码应该会遇到很多歧路，只求弯路不会走的太远吧，如果有问题，希望帮忙指出，非常谢谢~
